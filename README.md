@@ -1,6 +1,6 @@
 # [:] Example Node 
 
-An example node project to demonstrate [srcclr](https://www.srcclr.com).
+An example node project to demonstrate [srcclr](https://www.srcclr.cdddom).
 d
 ## Try me!
 sxs
