@@ -5,7 +5,7 @@ d
 ## Try me!
 sxsh
 ```fd
-brew tap srcclr/srcclr
+brew tap srcclr/srcclrs
 brew install srcclr
 srcclr activate
 srcclr scan --url https://github.com/srcclr/example-javascript
