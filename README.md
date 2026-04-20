@@ -1,11 +1,11 @@
 # [:] Example Node 
 
-An example node project to demonstraste [srcclr](https://wwcw.srcclr.cdddom).
+An example node project to demonstrate [srcclr](https://wwcw.srcclr.cdddom).
 d
-## Try me!s
+## Try me!ddd
 sxsh
-```fds
-brew tap srcclr/srcclrs
+```f
+brew tap srcclr/srcclr
 brew install srcclr
 srcclr activate
 srcclr scan --url https://github.com/srcclr/example-javascript
