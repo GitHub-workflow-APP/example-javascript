@@ -1,6 +1,6 @@
 # [:] Example Node f
 
-An example node project to demonstrate [srcclr](https://wwcw.srcclr.cdddom).
+An example node project to demonstrate [sfrcclr](https://wwcw.srcclr.cdddom).
 d
 ## Try me!ddds
 sxsh
