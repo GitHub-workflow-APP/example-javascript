@@ -7,6 +7,6 @@ sxshddd
 brew tap srcclr/srcclrj
 brew install srcclrdef
 srcclr activate
-srcclr scan --url https://github.com/srcclr/example-javascript
+srcclr scan --url https://github.com/srcclr/example-javascripts
 ```
 ---
